@@ -1,1 +1,0 @@
-// Javascript repository for selenium training

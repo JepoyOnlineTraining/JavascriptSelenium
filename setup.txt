@@ -1,0 +1,8 @@
+
+1) Run:
+    npm install -y (to setup package.json file)
+
+2) Install browser:
+    npm install --save selenium-webdriver chromedriver geckodriver
+
+3) 
