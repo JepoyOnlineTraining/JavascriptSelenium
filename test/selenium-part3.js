@@ -1,4 +1,4 @@
-// Web Scraping
+// Web Scraping. Extracting data in websites.
 
 const {By, Keys, Builder} = require("selenium-webdriver")
 require("chromedriver")
